@@ -1,0 +1,6 @@
+.legenda{
+  display: flex;
+  align-items: center;}
+  .texto_grande {
+    font-size: 38px;
+  }
